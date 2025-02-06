@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             SearchLocationAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Krupa",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
